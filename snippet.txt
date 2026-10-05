@@ -1,0 +1,22 @@
+<model-viewer src="External I-Stud Timber Frame Wall_01.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="46.18deg 67.92deg 3.082m" field-of-view="30deg">
+    <button class="Hotspot" slot="hotspot-4" data-position="0.40257253909750684m 0.8539071271299982m -0.34750002585509154m" data-normal="3.4228542950295595e-8m -4.489664195972408e-11m 0.9999999999999996m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">I-Stud</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="0.15250000722461754m 0.7643305892731821m -0.049638710677024134m" data-normal="1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Breather Membrane</div>
+    </button><button class="Hotspot" slot="hotspot-7" data-position="0.16450000796689485m 0.5501402685690314m -0.051871768084825486m" data-normal="1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">OSB Sheathing Board</div>
+    </button><button class="Hotspot" slot="hotspot-8" data-position="0.40550001924147305m 0.5661918906966669m -0.5657661401544375m" data-normal="1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">AVCL Sheet Membrane</div>
+    </button><button class="Hotspot" slot="hotspot-9" data-position="0.463000018075738m 0.11610588671498678m -1.2013973647704193m" data-normal="0.9999999999999996m -3.422846955596652e-8m -4.3280791275230625e-14m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Plasterboard with Finish Plaster</div>
+    </button><button class="Hotspot" slot="hotspot-10" data-position="0.4505000369691526m 0.35492880760689083m -0.3650350419548495m" data-normal="0.9999999999999994m -3.4228542950295595e-8m 4.980636378398787e-16m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Timber Batten to create Service Void</div>
+    </button><button class="Hotspot" slot="hotspot-11" data-position="0.3052601146286855m 0.9000000228085363m -0.8225343913683519m" data-normal="0m 1m 4.4896641959724086e-11m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Insulation between Studs</div>
+    </button><button class="Hotspot" slot="hotspot-12" data-position="3.1363494856773144e-9m 0.48930121037154256m -0.6710412268537389m" data-normal="-0.9999999999999994m 1.5367466376424592e-18m -3.422854295029559e-8m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Facing Brickwork</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+</model-viewer>
